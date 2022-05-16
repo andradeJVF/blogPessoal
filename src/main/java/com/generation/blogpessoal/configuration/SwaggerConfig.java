@@ -27,7 +27,7 @@ public class SwaggerConfig {
 					.url("https://brazil.generation.org/"))
 				.contact(new Contact()
 					.name("João Vitor Felix de Andrade")
-					.url("https://github.com/andradeJVF")
+					.url("https://blogpessoaljvfa.herokuapp.com/")
 					.email("joao.felixandrade1201@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
